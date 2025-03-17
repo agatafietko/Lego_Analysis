@@ -36,7 +36,7 @@ This project analyzes the comprehensive Rebrickable Lego dataset to uncover tren
 
 ## 📊 Interactive Notebook
 
-The [`lego_analysis.ipynb`](https://github.com/agatafietko/Lego_Analysis/blob/main/notebooks/lego_analysis.ipynb) notebook contains all the code and fully rendered visualizations. You can view this notebook directly on GitHub to see all the charts and analysis without having to run any code. The notebook features:
+The [`Lego(1).ipynb`]([https://github.com/agatafietko/Lego_Analysis/blob/main/notebooks/lego_analysis.ipynb](https://github.com/agatafietko/Lego_Analysis/blob/main/Lego(1).ipynb)) notebook contains all the code and fully rendered visualizations. You can view this notebook directly on GitHub to see all the charts and analysis without having to run any code. The notebook features:
 
 - 📝 Detailed markdown explanations before each analysis section
 - 💻 Well-commented code with clear variable naming
